@@ -10,11 +10,11 @@ This app was refactored from an existing, fully functional MERN app setup with a
 
 #### Main Page:
 
-![Main Page](/client/src/assets/images/screenshot-1.png)
+![Screenshot1](https://user-images.githubusercontent.com/95327275/170395273-e66d5951-68d0-47e5-89ca-cae294575937.jpg)
 
 #### Search Results:
 
-![Search Results](/client/src/assets/images/screenshot-2.png)
+![Screenshot2](https://user-images.githubusercontent.com/95327275/170395330-535c43e6-f844-4e3f-9c3a-be180dbec99e.jpg)
 
 #### Saved Books:
 
